@@ -1,12 +1,11 @@
 # Projeto-Consultório
 Projeto realizado durante o segundo semestre de ADS.
 Enunciado:
-#
-# Tarefa 1
-# Competências avaliadas:
-# - Saber interpretar o que foi solicitado
-# - Desenvolver uma solução viável para o problema
-# - Saber utilizar classes e objetos
+Tarefa 1
+Competências avaliadas:
+Saber interpretar o que foi solicitado
+Desenvolver uma solução viável para o problema
+Saber utilizar classes e objetos
 
 '''
 Faça um algoritmo que controle o acesso de pessoas a
